@@ -1,0 +1,30 @@
+# 🚀 Drone News AI Agent
+
+This project automates the process of finding, summarizing, and posting the latest drone industry news using AI tools like Taskade AI, ChatGPT API, and Google News RSS.
+
+---
+
+## 🎯 Objective
+
+To build an AI automation workflow that:
+1. Searches for the latest drone-related news.
+2. Summarizes each article using AI.
+3. Converts the summaries into engaging social media posts.
+4. Automatically posts to platforms like LinkedIn or Twitter (X).
+
+---
+
+## 🧩 Workflow Overview
+
+### Step 1: News Discovery
+- **Tool:** Taskade AI / n8n / Make.com + Google News RSS  
+- **Keywords:** `latest drone news`, `UAV technology`, `DGCA drones India`  
+- **Output:** 3–5 latest articles with:
+  - Title  
+  - Link  
+  - Publication Date  
+  - Featured Image  
+
+### Step 2: AI Summarization
+- **Tool:** ChatGPT API / Taskade Writer  
+- **Prompt Used:**
