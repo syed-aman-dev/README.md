@@ -1,0 +1,18 @@
+
+### Step 4: Auto Posting
+- **Tool:** Taskade AI / Make.com / Zapier  
+- **Integration:** LinkedIn or Twitter API  
+- **Automation:** Runs daily at 9 AM IST and posts content automatically.
+
+---
+
+## ⚙️ Tools Used
+- **Taskade AI** – Workflow automation & AI summarization  
+- **ChatGPT API** – Text generation & summarization  
+- **Google News RSS** – News source  
+- **LinkedIn API / Twitter API** – Auto posting  
+- **GitHub** – Code & documentation storage  
+
+---
+
+## 🗂️ Folder Structure
